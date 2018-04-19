@@ -7,13 +7,14 @@ Collection space for resources for the @OpenTechSchool data science co-learning 
 ## Data science programming languages and libraries
 
 **Python**
-* Titanic tutorial to sklearn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
 * Python for beginners OTS Tutorial http://opentechschool.github.io/python-beginners/ 
 
 * Python for data analysis OTS Tutorial (a bit old) http://opentechschool.github.io/python-data-intro/
 
 * Pandas tutorial (a bit old) https://bitbucket.org/hrojas/learn-pandas
+
+* Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
 * Video tutorial for statistical modeling with SciPy (a bit old) https://github.com/jseabold/tutorial
 
