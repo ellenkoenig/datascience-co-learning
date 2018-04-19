@@ -14,7 +14,7 @@ Collection space for resources for the @OpenTechSchool data science co-learning 
 
 * Pandas tutorial (a bit old) https://bitbucket.org/hrojas/learn-pandas
 
-* Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
+* Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
 * Video tutorial for statistical modeling with SciPy (a bit old) https://github.com/jseabold/tutorial
 
