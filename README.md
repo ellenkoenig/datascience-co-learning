@@ -41,4 +41,4 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 **Toolkits**
 * Scikit-Learn (Python, great online documentation): http://scikit-learn.org/stable/
 
-*stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
+* stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
