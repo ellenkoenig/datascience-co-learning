@@ -31,7 +31,8 @@ See https://github.com/ellenkoenig/R-co-learning-resources
 
 OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
-## Machine learning** 
+## Machine learning
+
 **Online courses (MOOCs)**
 * Udacity: Intro to Machine Learning: https://www.udacity.com/course/intro-to-machine-learning--ud120  (Excellent intro to applied ML using sci-kit learn and Python)
 
