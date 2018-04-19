@@ -1,6 +1,7 @@
 # Data Science Co-Learning
 
-Collection space for resources for the @OpenTechSchool data science co-learning meetup
+Collection space for resources for the @OpenTechSchool data science co-learning meetup.
+
 **These resources may be outdated. Feedback, newer resources and PRs welcome!**
 
 ## Data science programming languages and libraries
@@ -30,10 +31,14 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 ## Machine learning** 
 **Online courses (MOOCs)**
 * Udacity: Intro to Machine Learning: https://www.udacity.com/course/intro-to-machine-learning--ud120  (Excellent intro to applied ML using sci-kit learn and Python)
+
 * Coursera: Machine Learning: https://www.coursera.org/learn/machine-learning (Friendly intro to the theory behind common ML algorithm)
+
 * Machine Learning Mastery: Lots of self-study guides for ML learners http://machinelearningmastery.com/
+
 * UCI ML Repository: Collection of “Toy problems” for ML http://archive.ics.uci.edu/ml/datasets.html
 
 **Toolkits**
 * Scikit-Learn (Python, great online documentation): http://scikit-learn.org/stable/
+
 *stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
