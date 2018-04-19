@@ -22,10 +22,12 @@ Collection space for resources for the @OpenTechSchool data science co-learning 
 * Numpy & Matplotlib: https://github.com/ikajic/python-in-science (from Pyladies Berlin, also a bit old)
 
 **R**
+
 See https://github.com/ellenkoenig/R-co-learning-resources
 
 
 **SQL**
+
 OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 ## Machine learning** 
