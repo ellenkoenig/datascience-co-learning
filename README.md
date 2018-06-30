@@ -1,17 +1,33 @@
-# Data Science Co-Learning
+# OTS Data Science Co-Learning
 
-Collection space for resources for the [OpenTechSchool](https://www.meetup.com/de-DE/opentechschool-berlin/events/) data science co-learning meetup.
+Collection space for resources for the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/).
 
-**These resources may be outdated. Feedback, newer resources and PRs welcome!**
+**_These resources may be outdated. Feedback, newer resources and PRs welcome!_**
 
-## Data science programming languages and libraries
+<br><br>
+## Contents
+
+1. [Python](#python)
+2. R
+3. SQL
+4. Machine Learning
+5. Math and Statistics
+6. People
+7. Competitions
+8. [Data Sets](#data-sets)
 
 
-**Python**
 
-* Python for beginners OTS Tutorial http://opentechschool.github.io/python-beginners/ 
 
-* Automate the boring stuff with python https://automatetheboringstuff.com/ 
+
+<br><br>
+## Python
+
+* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/) from OTS: Perfect for anyone with limited exposure to programming. Covers everything you need to get started with Python. Available in English,German, Spanish, Russian, Korean, and Romanian.
+
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Teaches Python as a means to get things done. Free if you use the website, also available as a [book](https://nostarch.com/automatestuff) and a [Udemy course](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS).
+
+* 
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
 
@@ -28,16 +44,33 @@ Collection space for resources for the [OpenTechSchool](https://www.meetup.com/d
 * Numpy & Matplotlib: https://github.com/ikajic/python-in-science (from Pyladies Berlin, also a bit old)
 
 
-**R**
+
+
+
+<br><br>
+## R
+
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: 
+
+* [R for Data Science](http://r4ds.had.co.nz/): An excellent to data science via R by two heavyweights of the R community, Garrett Grolemund and Hadley Wickham.
+
+* [Advanced R](http://adv-r.had.co.nz/): 
+
+* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
 
 See https://github.com/ellenkoenig/R-co-learning-resources
 
 
-**SQL**
+
+
+
+<br><br>
+## SQL
 
 OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 
+<br><br>
 ## Machine learning
 
 **Online courses (MOOCs)**
@@ -57,7 +90,19 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 * stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
 
 
-**social media for data science**
+
+
+<br><br>
+## Math and Statistics
+
+* Duke University's [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): From Coursera. The specialization costs money, but the material for the individual courses is accessible for free.
+
+
+
+
+
+<br><br>
+## People
 
 * data science development - https://twitter.com/BecomingDataSci
 
@@ -65,22 +110,31 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 * linux / bash comics - https://twitter.com/b0rk
 
-* live coding data science on twitch and other interactive projects - https://twitter.com/rctatman
+* Dr. Rachael Tatman ([blog](https://twitter.com/rctatman), [![twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/rctatman)): Live coding data science on twitch and other interactive projects.
 
 * R - https://twitter.com/dataandme + https://twitter.com/juliasilge + https://twitter.com/hadleywickham
 
 * visualization + data science in python - https://twitter.com/jakevdp + https://twitter.com/wesmckinn + https://twitter.com/hugobowne
 
 
-**competitions**
+
+
+
+<br><br>
+## Competitions
 
 * drivendata - https://drivendata.org
 
 * kaggle - https://kaggle.com
 
 
-**data sets**
+
+
+
+<br><br>
+## Data Sets
 
 * UCI machine learning archive - https://archive.ics.uci.edu/ml/datasets.html
 
 * kaggle - https://www.kaggle.com/datasets?sortBy=hottest&group=featured
+
