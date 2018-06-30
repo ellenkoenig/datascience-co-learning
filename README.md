@@ -1,6 +1,6 @@
 # Data Science Co-Learning
 
-Collection space for resources for the @OpenTechSchool data science co-learning meetup.
+Collection space for resources for the [OpenTechSchool](https://www.meetup.com/de-DE/opentechschool-berlin/events/) data science co-learning meetup.
 
 **These resources may be outdated. Feedback, newer resources and PRs welcome!**
 
