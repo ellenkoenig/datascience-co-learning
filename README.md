@@ -1,4 +1,4 @@
-OTS Data Science Co-Learning
+OTS Data Science Co-Learning Resources
 ===
 
 Collection space for resources pertaining to the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/). All resources are free unless otherwise noted. Please let us know if there are any broken or outdated links.
