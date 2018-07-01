@@ -33,8 +33,6 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas) from Hernand Rojas: This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).
 
-* Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
-
 * Video tutorial for statistical modeling with SciPy (a bit old) https://github.com/jseabold/tutorial
 
 * SciPy tutorial (probably also a bit old) http://scipy-lectures.github.io/
@@ -78,6 +76,8 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 * Coursera: Machine Learning: https://www.coursera.org/learn/machine-learning (Friendly intro to the theory behind common ML algorithm)
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
+
+* Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
 * Machine Learning Mastery: Lots of self-study guides for ML learners http://machinelearningmastery.com/
 
