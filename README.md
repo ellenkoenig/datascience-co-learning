@@ -51,8 +51,6 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
 
-See https://github.com/ellenkoenig/R-co-learning-resources
-
 
 
 
