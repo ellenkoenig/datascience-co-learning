@@ -1,11 +1,13 @@
-# OTS Data Science Co-Learning
+OTS Data Science Co-Learning
+===
 
 Collection space for resources for the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/). All resources are free unless otherwise noted. Please let us know if there are any broken or outdated links.
 
 **_Feedback, more resources and PRs welcome!_**
 
 <br><br>
-## Contents
+Contents
+---
 
 1. [Python](#python)
 2. [R](#r)
@@ -21,7 +23,8 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 
 <br><br>
-## Python
+Python
+---
 
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/) from OTS: Perfect for anyone with limited exposure to programming. Covers everything you need to get started with Python. Available in English, German, Spanish, Russian, Korean, and Romanian.
 
@@ -41,7 +44,8 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 
 <br><br>
-## R
+R
+---
 
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
 
@@ -56,15 +60,19 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 
 <br><br>
-## SQL
+SQL
+---
 
-OTS Tutorial http://opentechschool.github.io/sql-tutorial/
+* OTS Tutorial http://opentechschool.github.io/sql-tutorial/
+
+* 
 
 
 <br><br>
-## Machine learning
+Machine learning
+---
 
-**Online courses (MOOCs)**
+### MOOCs and Tutorials
 
 * Udacity: Intro to Machine Learning: https://www.udacity.com/course/intro-to-machine-learning--ud120  (Excellent intro to applied ML using sci-kit learn and Python)
 
@@ -74,11 +82,11 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 * Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
-* Machine Learning Mastery: Lots of self-study guides for ML learners http://machinelearningmastery.com/
+* [Machine Learning Mastery](https://machinelearningmastery.com/) from Jason Brownlee _(R & Python)_: Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you're looking for more depth and/or structure.
 
 * fastai - http://fast.ai
 
-**Toolkits**
+### Toolkits
 
 * Scikit-Learn (Python, great online documentation): http://scikit-learn.org/stable/
 
@@ -88,7 +96,8 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 
 <br><br>
-## Math and Statistics
+Math and Statistics
+---
 
 * Duke University's [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): From Coursera. The specialization costs money, but the material for the individual courses is accessible for free.
 
@@ -97,7 +106,8 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 
 <br><br>
-## People
+People
+---
 
 * data science development - https://twitter.com/BecomingDataSci
 
@@ -116,7 +126,8 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 
 <br><br>
-## Competitions
+Competitions
+---
 
 * drivendata - https://drivendata.org
 
@@ -127,7 +138,8 @@ OTS Tutorial http://opentechschool.github.io/sql-tutorial/
 
 
 <br><br>
-## Data Sets
+Data Sets
+---
 
 * UCI machine learning archive - https://archive.ics.uci.edu/ml/datasets.html
 
