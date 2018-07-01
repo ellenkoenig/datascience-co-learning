@@ -33,7 +33,7 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas) from Hernand Rojas: This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).
 
-* Video tutorial for statistical modeling with SciPy (a bit old) https://github.com/jseabold/tutorial
+* [StatsModels Tutorial](https://github.com/jseabold/tutorial): Repo of Jupyter Notebooks dealing with the [StatsModels](https://www.statsmodels.org/stable/index.html) module. The material is a little old and not very well organized, but there are still a few gems there for anyone doing statistics in Python.
 
 * SciPy tutorial (probably also a bit old) http://scipy-lectures.github.io/
 
