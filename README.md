@@ -8,12 +8,12 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 ## Contents
 
 1. [Python](#python)
-2. R
-3. SQL
-4. Machine Learning
-5. Math and Statistics
-6. People
-7. Competitions
+2. [R](#r)
+3. [SQL](#sql)
+4. [Machine Learning](#machine-learning)
+5. [Math and Statistics](#math-and-statistics)
+6. [People](#people)
+7. [Competitions](#competitions)
 8. [Data Sets](#data-sets)
 
 
@@ -27,7 +27,7 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Teaches Python as a means to get things done. Free if you use the website, also available as a [book](https://nostarch.com/automatestuff) and a [Udemy course](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS).
 
-* 
+* [Python Course](https://www.python-course.eu/python3_course.php) from Bernd Klein: One of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
 
