@@ -35,10 +35,7 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [StatsModels Tutorial](https://github.com/jseabold/tutorial): Repo of Jupyter Notebooks dealing with the [StatsModels](https://www.statsmodels.org/stable/index.html) module. The material is a little old and not very well organized, but there are still a few gems there for anyone doing statistics in Python.
 
-* SciPy tutorial (probably also a bit old) http://scipy-lectures.github.io/
-
-* Numpy & Matplotlib: https://github.com/ikajic/python-in-science (from Pyladies Berlin, also a bit old)
-
+* [SciPy Lecture Notes](http://www.scipy-lectures.org/): A brief (1-2 hours per module) introduction to the tools and techniques of Python's [SciPy](https://www.scipy.org/) module.
 
 
 
