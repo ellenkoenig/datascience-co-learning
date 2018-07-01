@@ -1,8 +1,8 @@
 # OTS Data Science Co-Learning
 
-Collection space for resources for the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/).
+Collection space for resources for the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/). All resources are free unless otherwise noted. Please let us know if there are any broken or outdated links.
 
-**_These resources may be outdated. Feedback, newer resources and PRs welcome!_**
+**_Feedback, more resources and PRs welcome!_**
 
 <br><br>
 ## Contents
@@ -47,7 +47,7 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 
 * [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary (DataCamp's intro is more than enough). It's also available as a book.
 
-* [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham:  
+* [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R's C interface, etc.
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
 
