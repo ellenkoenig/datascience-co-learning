@@ -43,7 +43,7 @@ Collection space for resources for the [OpenTechSchool Data Science Co-Learning 
 <br><br>
 ## R
 
-* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: 
+* [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to hundreds of courses (R and Python) and a number of specializations.
 
 * [R for Data Science](http://r4ds.had.co.nz/): An excellent introduction to data science via R by two heavyweights of the R community, Garrett Grolemund and Hadley Wickham. The book is broken down into 5 parts corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary.
 
