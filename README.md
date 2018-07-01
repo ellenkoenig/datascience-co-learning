@@ -23,7 +23,7 @@ Contents
 
 
 <br><br>
-Python
+[Python](#contents)
 ---
 
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/) from OTS: Perfect for anyone with limited exposure to programming. Covers everything you need to get started with Python. Available in English, German, Spanish, Russian, Korean, and Romanian.
@@ -44,7 +44,7 @@ Python
 
 
 <br><br>
-R
+[R](#contents)
 ---
 
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
@@ -60,7 +60,7 @@ R
 
 
 <br><br>
-SQL
+[SQL](#contents)
 ---
 
 * OTS Tutorial http://opentechschool.github.io/sql-tutorial/
@@ -69,7 +69,7 @@ SQL
 
 
 <br><br>
-Machine learning
+[Machine Learning](#contents)
 ---
 
 ### MOOCs and Tutorials
@@ -96,7 +96,7 @@ Machine learning
 
 
 <br><br>
-Math and Statistics
+[Math and Statistics](#contents)
 ---
 
 * Duke University's [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): From Coursera. The specialization costs money, but the material for the individual courses is accessible for free.
@@ -106,7 +106,7 @@ Math and Statistics
 
 
 <br><br>
-People
+[People](#contents)
 ---
 
 * data science development - https://twitter.com/BecomingDataSci
@@ -126,7 +126,7 @@ People
 
 
 <br><br>
-Competitions
+[Competitions](#contents)
 ---
 
 * drivendata - https://drivendata.org
@@ -138,7 +138,7 @@ Competitions
 
 
 <br><br>
-Data Sets
+[Data Sets](#contents)
 ---
 
 * UCI machine learning archive - https://archive.ics.uci.edu/ml/datasets.html
