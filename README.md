@@ -117,15 +117,15 @@ Contents
 
 ### People
 
-* data science development - https://twitter.com/BecomingDataSci
-
-* Berlin based job offers, tutorials and more - https://twitter.com/DataScienceBER
-
-* linux / bash comics - https://twitter.com/b0rk
-
 * Dr. Rachael Tatman ([blog](https://twitter.com/rctatman), [![twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/rctatman)): Live coding data science on twitch and other interactive projects.
 
-* R - https://twitter.com/dataandme + https://twitter.com/juliasilge + https://twitter.com/hadleywickham
+* R - https://twitter.com/dataandme
+
+* [Julia Silge](https://twitter.com/juliasilge):
+
+* [Hadley Wickham](https://twitter.com/hadleywickham)
+
+* [David Robinson]()
 
 * visualization + data science in python - https://twitter.com/jakevdp + https://twitter.com/wesmckinn + https://twitter.com/hugobowne
 
@@ -136,6 +136,12 @@ Contents
 * [KDnuggets](https://www.kdnuggets.com/):
 
 * [Sharp Sight Labs](https://www.sharpsightlabs.com/):
+
+* data science development - https://twitter.com/BecomingDataSci
+
+* Berlin based job offers, tutorials and more - https://twitter.com/DataScienceBER
+
+* linux / bash comics - https://twitter.com/b0rk
 
 
 
