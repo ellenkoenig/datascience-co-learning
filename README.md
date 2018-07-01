@@ -14,7 +14,7 @@ Contents
 3. [SQL](#sql)
 4. [Machine Learning](#machine-learning)
 5. [Math and Statistics](#math-and-statistics)
-6. [People](#people)
+6. [Social Media and News](#social-media-and-news)
 7. [Competitions](#competitions)
 8. [Data Sets](#data-sets)
 
@@ -30,11 +30,11 @@ Contents
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): Teaches Python as a means to get things done. Free if you use the website, also available as a [book](https://nostarch.com/automatestuff) and a [Udemy course](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS).
 
-* [Python Course](https://www.python-course.eu/python3_course.php) from Bernd Klein: Probably one of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
+* [Python Course](https://www.python-course.eu/python3_course.php): Probably one of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
 
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) from OTS: A work in progress, our own tutorial builds on the foundations of [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/). You'll learn how to install and use Jupyter notebooks, load data, analyze a survey, and visualize your data. We've got quite a bit in the pipeline, so be sure to check back soon.
 
-* [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas) from Hernand Rojas: This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).
+* [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas): This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).
 
 * [StatsModels Tutorial](https://github.com/jseabold/tutorial): Repo of Jupyter Notebooks dealing with the [StatsModels](https://www.statsmodels.org/stable/index.html) module. The material is a little old and not very well organized, but there are still a few gems there for anyone doing statistics in Python.
 
@@ -47,6 +47,8 @@ Contents
 [R](#contents)
 ---
 
+* [Swirl](https://swirlstats.com/): Swirl is an R package that allows you to learn R interactively in the R console.  
+
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
 
 * [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary (DataCamp's intro is more than enough). It's also available as a book.
@@ -54,6 +56,8 @@ Contents
 * [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R's C interface, etc.
 
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
+
+* [R Tutorial](http://www.cyclismo.org/tutorial/R/):
 
 
 
@@ -80,7 +84,7 @@ Contents
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
 
-* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) (R): 
+* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) (R): A tutorial aimed at Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Begins with some basics, then moves on to decision trees, feature engineering, and random forests.
 
 * Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
@@ -108,8 +112,10 @@ Contents
 
 
 <br><br>
-[People](#contents)
+[Social Media and News](#contents)
 ---
+
+### People
 
 * data science development - https://twitter.com/BecomingDataSci
 
@@ -122,6 +128,14 @@ Contents
 * R - https://twitter.com/dataandme + https://twitter.com/juliasilge + https://twitter.com/hadleywickham
 
 * visualization + data science in python - https://twitter.com/jakevdp + https://twitter.com/wesmckinn + https://twitter.com/hugobowne
+
+### DS Websites, News, Etc.
+
+* [Analytics Vidhya](https://www.analyticsvidhya.com):
+
+* [KDnuggets](https://www.kdnuggets.com/):
+
+* [Sharp Sight Labs](https://www.sharpsightlabs.com/):
 
 
 
