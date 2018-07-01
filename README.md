@@ -1,9 +1,9 @@
 OTS Data Science Co-Learning
 ===
 
-Collection space for resources for the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/). All resources are free unless otherwise noted. Please let us know if there are any broken or outdated links.
+Collection space for resources pertaining to the [OpenTechSchool Data Science Co-Learning Meetup.](https://www.meetup.com/de-DE/opentechschool-berlin/events/). All resources are free unless otherwise noted. Please let us know if there are any broken or outdated links.
 
-**_Feedback, more resources and PRs welcome!_**
+**_Feedback, further resources and PRs welcome!_**
 
 <br><br>
 Contents
@@ -74,11 +74,13 @@ Contents
 
 ### MOOCs and Tutorials
 
-* Udacity: Intro to Machine Learning: https://www.udacity.com/course/intro-to-machine-learning--ud120  (Excellent intro to applied ML using sci-kit learn and Python)
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Python):  An excellent introduction to applied ML from Udacity. The course focuses on the ML library [scikit-learn](http://scikit-learn.org/). Part of Udacity's Data Analyst Nanodegree, it takes an estimated 10 weeks to complete.
 
-* Coursera: Machine Learning: https://www.coursera.org/learn/machine-learning (Friendly intro to the theory behind common ML algorithm)
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) (Octave/Matlab): A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
+
+* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) (R): 
 
 * Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
 
