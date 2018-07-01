@@ -163,7 +163,34 @@ Contents
 [Data Sets](#contents)
 ---
 
-* UCI machine learning archive - https://archive.ics.uci.edu/ml/datasets.html
+* [UCI machine learning archive](https://archive.ics.uci.edu/ml/datasets.html)
 
-* kaggle - https://www.kaggle.com/datasets?sortBy=hottest&group=featured
+* [Kaggle](https://www.kaggle.com/datasets?sortBy=hottest&group=featured)
 
+* [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/datasets.html): A collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. Curated by Vincent Arel-Bundock [![Github](http://i.imgur.com/9I6NRUm.png)](https://github.com/vincentarelbundock).
+
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A VERY large list of tidied, public data sets. Most of the datasets are free, but some are not.
+
+* [IMDb Datasets](https://www.imdb.com/interfaces/)
+
+* [Gun Violence Database](http://gun-violence.org/)
+
+* [UN Data](http://data.un.org/)
+
+* [Gapminder](https://www.gapminder.org/data/)
+
+* [Open Source Psychometrics Project](https://openpsychometrics.org/_rawdata/)
+
+* [OpenStreetMap](https://www.openstreetmap.org/#map=9/49.4253/13.3896)
+
+* [The Standford Open Policing Project](https://openpolicing.stanford.edu/data/)
+
+* [Our World in Data](https://ourworldindata.org/)
+
+* [Open Food Facts](https://world.openfoodfacts.org/)
+
+* [Climate Data Online](https://www7.ncdc.noaa.gov/CDO/cdo)
+
+* [Data Sets for Applied Regression Analysis and Generalized Linear Models](https://socialsciences.mcmaster.ca/jfox/Books/Applied-Regression-2E/datasets/)
+
+* [United States Census Bureau](https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html)
