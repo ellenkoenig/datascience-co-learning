@@ -124,7 +124,7 @@ Contents
 
 * [class](https://www.rdocumentation.org/packages/class/versions/7.3-14) _(R)_: Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.
 
-* [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html): Offers a number of functions for supervised and unsupervised learning.
+* [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html) _(R)_: Offers a number of functions for supervised and unsupervised learning.
 
 
 
