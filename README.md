@@ -32,6 +32,10 @@ Contents
 
 * [Python Course](https://www.python-course.eu/python3_course.php): Probably one of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
 
+* [Introduction to Python]() from DataCamp:
+
+* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): 
+
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) from OTS: A work in progress, our own tutorial builds on the foundations of [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/). You'll learn how to install and use Jupyter notebooks, load data, analyze a survey, and visualize your data. We've got quite a bit in the pipeline, so be sure to check back soon.
 
 * [Pandas Tutorial](https://bitbucket.org/hrojas/learn-pandas): This tutorial consists of a series of Jupyter Notebooks introducing the fundamentals of the Pandas module. The notebooks can be freely downloaded. The Pandas tutorial, as well as tutorials on a number of other data science related topics, are also available as [email courses](http://www.hedaro.com/).
@@ -39,7 +43,6 @@ Contents
 * [StatsModels Tutorial](https://github.com/jseabold/tutorial): Repo of Jupyter Notebooks dealing with the [StatsModels](https://www.statsmodels.org/stable/index.html) module. The material is a little old and not very well organized, but there are still a few gems there for anyone doing statistics in Python.
 
 * [SciPy Lecture Notes](http://www.scipy-lectures.org/): A brief (1-2 hours per module) introduction to the tools and techniques of Python's [SciPy](https://www.scipy.org/) module.
-
 
 
 
@@ -51,6 +54,8 @@ Contents
 
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
 
+* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): 
+
 * [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary (DataCamp's intro is more than enough). It's also available as a book.
 
 * [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R's C interface, etc.
@@ -58,6 +63,9 @@ Contents
 * [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
 
 * [R Tutorial](http://www.cyclismo.org/tutorial/R/):
+
+* [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/) (R): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
+
 
 
 
@@ -94,9 +102,15 @@ Contents
 
 ### Toolkits
 
-* Scikit-Learn (Python, great online documentation): http://scikit-learn.org/stable/
+* [Scikit-Learn](http://scikit-learn.org/stable/) (Py): Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license.
 
 * stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
+
+* [Keras](https://keras.io/) (Py): A Python deep learning library. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.
+
+* [TensorFlow](https://www.tensorflow.org/) (Py): An open source machine learning framework.
+
+* [PyTorch](https://pytorch.org/) (Py):  A deep learning framework for fast, flexible experimentation.
 
 
 
@@ -105,7 +119,7 @@ Contents
 [Math and Statistics](#contents)
 ---
 
-* Duke University's [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): From Coursera. The specialization costs money, but the material for the individual courses is accessible for free.
+* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) from Duke University + Coursera: The specialization costs money, but the material for the individual courses is accessible for free.
 
 
 
@@ -138,8 +152,6 @@ Contents
 * [Analytics Vidhya](https://www.analyticsvidhya.com): A comprehensive data science website providing resources for pretty much everything related to data science/analysis. Their blurb: _Learn everything about analytics._
 
 * [KDnuggets](https://www.kdnuggets.com/) (ML): 
-
-* [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/) (R): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
 
 * [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Data+Machina): A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
 
@@ -177,19 +189,19 @@ Contents
 
 * [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/datasets.html): A collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. Curated by Vincent Arel-Bundock [![Github](http://i.imgur.com/9I6NRUm.png)](https://github.com/vincentarelbundock).
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A VERY large list of tidied, public data sets. Most of the datasets are free, but some are not.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A VERY large list of tidied, public data sets. Most of the datasets are free, some are not.
 
-* [IMDb Datasets](https://www.imdb.com/interfaces/)
+* [IMDb Datasets](https://www.imdb.com/interfaces/): Movie data from IMDb.
 
 * [Gun Violence Database](http://gun-violence.org/)
 
-* [UN Data](http://data.un.org/)
+* [UN Data](http://data.un.org/): Data from diverse UN sub-organizations.
 
-* [Gapminder](https://www.gapminder.org/data/)
+* [Gapminder](https://www.gapminder.org/data/): 
 
 * [Open Source Psychometrics Project](https://openpsychometrics.org/_rawdata/)
 
-* [OpenStreetMap](https://www.openstreetmap.org/#map=9/49.4253/13.3896)
+* [OpenStreetMap](https://www.openstreetmap.org)
 
 * [The Standford Open Policing Project](https://openpolicing.stanford.edu/data/)
 
