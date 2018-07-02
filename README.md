@@ -117,33 +117,33 @@ Contents
 
 ### People
 
-* Dr. Rachael Tatman ([blog](https://twitter.com/rctatman), [![twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/rctatman)): Live coding data science on twitch and other interactive projects.
+* [Dr. Rachael Tatman](https://twitter.com/rctatman) (): Live coding data science on twitch and other interactive projects.
 
-* R - https://twitter.com/dataandme
+* [](https://twitter.com/dataandme) (R):
 
-* R - [Julia Silge](https://twitter.com/juliasilge):
+* [Julia Silge](https://twitter.com/juliasilge) (R):
 
-* R - [Hadley Wickham](https://twitter.com/hadleywickham)
+* [Hadley Wickham](https://twitter.com/hadleywickham) (R): 
 
-* R - [David Robinson]()
+* [David Robinson]() (R): 
 
-* Py - https://twitter.com/jakevdp
+* [](https://twitter.com/jakevdp)
 
-* Py - https://twitter.com/wesmckinn
+* [Wes McKinney](https://twitter.com/wesmckinn) (Py):
 
-* Py - https://twitter.com/hugobowne
+* [Hugo-Bowne](https://twitter.com/hugobowne) (Py):
 
 ### DS Websites, News, Etc.
 
-* [Analytics Vidhya](https://www.analyticsvidhya.com):
+* [Analytics Vidhya](https://www.analyticsvidhya.com): A comprehensive data science website providing resources for pretty much everything related to data science/analysis. Their blurb: _Learn everything about analytics._
 
-* ML - [KDnuggets](https://www.kdnuggets.com/):
+* [KDnuggets](https://www.kdnuggets.com/) (ML): 
 
-* R - [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/): Useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on developing fluency. 
+* [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/) (R): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
 
 * [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Data+Machina): A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
 
-* R - [Revolution Analytics](http://blog.revolutionanalytics.com/): Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
+* [Revolution Analytics](http://blog.revolutionanalytics.com/) (R): Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
 
 * data science development - https://twitter.com/BecomingDataSci
 
@@ -159,9 +159,9 @@ Contents
 [Competitions](#contents)
 ---
 
-* drivendata - https://drivendata.org
+* [drivendata](https://drivendata.org)
 
-* kaggle - https://kaggle.com
+* [Kaggle](https://kaggle.com)
 
 
 
