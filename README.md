@@ -89,7 +89,7 @@ Contents
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) _(Octave/Matlab)_: A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.
 
-* https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
+* [Chris Albon's personal website](https://chrisalbon.com) - Lots of short tutorials. Mostly ML, but also web scraping, regular expressions, visualization, etc. Chris has also written a [book](https://www.amazon.de/dp/1491989386/).
 
 * [Deep Learning](http://www.deeplearningbook.org/): An online version of the popular deep learning textbook.
 
@@ -101,7 +101,7 @@ Contents
 
 * [Machine Learning Mastery](https://machinelearningmastery.com/) from Jason Brownlee _(R/Python)_: Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you're looking for more depth and/or structure.
 
-* fastai - http://fast.ai
+* [fast.ai](http://fast.ai): A website dedicated to making the power of deep learning accessible to all.
 
 ### Toolkits
 
@@ -124,6 +124,7 @@ Contents
 
 * [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) from Duke University + Coursera: The specialization costs money, but the material for the individual courses is accessible for free.
 
+* [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md): From the good people at [fast.ai](http://fast.ai).
 
 
 
