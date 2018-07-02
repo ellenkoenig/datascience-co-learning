@@ -16,7 +16,7 @@ Contents
 5. [Math and Statistics](#math-and-statistics)
 6. [Social Media and News](#social-media-and-news)
 7. [Competitions](#competitions)
-8. [Data Sets](#data-sets)
+8. [Datasets](#datasets)
 
 
 
@@ -200,7 +200,7 @@ Contents
 
 
 <br><br>
-[Data & Datasets](#contents)
+[Datasets](#contents)
 ---
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): More than 400 ML datasets.
