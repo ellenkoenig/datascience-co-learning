@@ -47,7 +47,7 @@ Contents
 <br><br>
 [R](#contents)
 ---
-**Note**: R is, unlike Python, definitely _not_ a general-purpose language. It is specifically designed for statistical computing and graphics, so many courses teach R in conjunction with stats, data science, etc. 
+**Note**: R is, unlike Python, definitely _not_ a general-purpose language – although it can perform some general-purpose tasks. It is specifically designed for statistical computing and graphics, so many courses teach R in conjunction with stats, data science, etc. 
 
 * [Swirl](https://swirlstats.com/): Swirl is an R package that allows you to learn R interactively in the R console.  
 
