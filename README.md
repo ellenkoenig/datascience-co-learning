@@ -121,21 +121,29 @@ Contents
 
 * R - https://twitter.com/dataandme
 
-* [Julia Silge](https://twitter.com/juliasilge):
+* R - [Julia Silge](https://twitter.com/juliasilge):
 
-* [Hadley Wickham](https://twitter.com/hadleywickham)
+* R - [Hadley Wickham](https://twitter.com/hadleywickham)
 
-* [David Robinson]()
+* R - [David Robinson]()
 
-* visualization + data science in python - https://twitter.com/jakevdp + https://twitter.com/wesmckinn + https://twitter.com/hugobowne
+* Py - https://twitter.com/jakevdp
+
+* Py - https://twitter.com/wesmckinn
+
+* Py - https://twitter.com/hugobowne
 
 ### DS Websites, News, Etc.
 
 * [Analytics Vidhya](https://www.analyticsvidhya.com):
 
-* [KDnuggets](https://www.kdnuggets.com/):
+* ML - [KDnuggets](https://www.kdnuggets.com/):
 
-* [Sharp Sight Labs](https://www.sharpsightlabs.com/):
+* R - [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/): Useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on developing fluency. 
+
+* [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Data+Machina): A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
+
+* R - [Revolution Analytics](http://blog.revolutionanalytics.com/): Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
 
 * data science development - https://twitter.com/BecomingDataSci
 
