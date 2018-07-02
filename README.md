@@ -32,9 +32,7 @@ Contents
 
 * [Python Course](https://www.python-course.eu/python3_course.php): Probably one of the most comprehensive free tutorials available, it covers everything from "Hello World" to advanced OOP. Klein also offers quite a bit beyond the core material, e.g. _Advanced Topics_, _Numerical Python_, _Machine Learning_, and _Tkinter Tutorial_. All the material is offered in English and German.
 
-* [Introduction to Python]() from DataCamp:
-
-* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): 
+* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): Lots of tutorials, many user-created. Lots of Python, but also R, SQL, Git, stats, etc.
 
 * [Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/) from OTS: A work in progress, our own tutorial builds on the foundations of [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/). You'll learn how to install and use Jupyter notebooks, load data, analyze a survey, and visualize your data. We've got quite a bit in the pipeline, so be sure to check back soon.
 
@@ -49,22 +47,23 @@ Contents
 <br><br>
 [R](#contents)
 ---
+**Note**: R is, unlike Python, definitely _not_ a general-purpose language. It is specifically designed for statistical computing and graphics, so many courses teach R in conjunction with stats, data science, etc. 
 
 * [Swirl](https://swirlstats.com/): Swirl is an R package that allows you to learn R interactively in the R console.  
 
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) from DataCamp: A solid, 6-part intro to the basics of the R language with 4-5 hours of material. If you're interested in continuing with DataCamp you can purchase a subscription for 22€ per month, which gives you access to 137 courses (R and Python) and a number of career and skill tracks.
 
-* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): 
+* [DataCamp Community Tutorials](https://www.datacamp.com/community/tutorials): Lots of tutorials, many user-created. Lots of R, but also Python, SQL, Git, stats, etc.
 
 * [R for Data Science](http://r4ds.had.co.nz/) from Garrett Grolemund and Hadley Wickham: An excellent introduction to data science via R by two heavyweights of the R community, it is broken down into 5 parts, corresponding to steps in the data science process: Explore, Wrangle, Program, Model, and Communicate. You'll learn the "tidy" approach to data, and immediately use libraries such as `dplyr`, `tidyr`, and `ggplot2`. Some basic knowledge of R can be helpful, but isn't absolutely necessary (DataCamp's intro is more than enough). It's also available as a book.
 
 * [Advanced R](http://adv-r.had.co.nz/) from Hadley Wickham: A companion website to the book of the same name, it introduces more advanced features (and quirks) of the R language, e.g. style, exception handling, functional programming, R's C interface, etc.
 
-* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) from Johns Hopkins University + Coursera: 
+* [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science): A comprehensive, challenging, 10-part course from Johns Hopkins University & Coursera. Covers R, the data science workflow, stats, and some machine learning.
 
-* [R Tutorial](http://www.cyclismo.org/tutorial/R/):
+* [R Tutorial](http://www.cyclismo.org/tutorial/R/): A basic intro to R and stats from the University of Georgia, Department of Mathematics.
 
-* [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/) (R): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
+* [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
 
 
 
@@ -86,17 +85,21 @@ Contents
 
 ### MOOCs and Tutorials
 
-* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Python):  An excellent introduction to applied ML from Udacity. The course focuses on the ML library [scikit-learn](http://scikit-learn.org/). Part of Udacity's Data Analyst Nanodegree, it takes an estimated 10 weeks to complete.
+* [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) _(Py)_:  An excellent introduction to applied ML from Udacity. The course focuses on the ML library [scikit-learn](http://scikit-learn.org/). Part of Udacity's Data Analyst Nanodegree, it takes an estimated 10 weeks to complete.
 
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) (Octave/Matlab): A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) _(Octave/Matlab)_: A popular introduction to the theory behind common ML algorithms, from Coursera founder and Stanford professor Andrew Ng. It takes an estimated 11 weeks to complete. A certificate is available for Coursera subscribers, but the material is free for everyone. Use of Octave/Matlab in only required when pursuing a certificate.
 
 * https://chrisalbon.com - he also wrote a book (https://www.amazon.de/dp/1491989386/)
 
-* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) (R): A tutorial aimed at Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Begins with some basics, then moves on to decision trees, feature engineering, and random forests.
+* [Deep Learning](http://www.deeplearningbook.org/): An online version of the popular deep learning textbook.
 
-* Kaggle data Titanic tutorial: Machine learning with scikit-learn and tensorflow https://blog.socialcops.com/engineering/machine-learning-python/
+* [Natural Language Processing with Python](https://www.nltk.org/book/): Free online version of the popular NLP book. Uses NLTK. Updated for Python 3.
 
-* [Machine Learning Mastery](https://machinelearningmastery.com/) from Jason Brownlee _(R & Python)_: Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you're looking for more depth and/or structure.
+* [Kaggle Titanic Tutorial](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/) _(R)_: A tutorial aimed at Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic). Begins with some basics, then moves on to decision trees, feature engineering, and random forests.
+
+* [Kaggle Titanic Tutorial](https://blog.socialcops.com/engineering/machine-learning-python/) _(Py)_: Machine learning with scikit-learn and tensorflow
+
+* [Machine Learning Mastery](https://machinelearningmastery.com/) from Jason Brownlee _(R/Python)_: Includes lots of self-study tutorials covering beginner to advanced topics in machine learning and statistics. Brownlee also offers some ebooks for $37-47, in case you're looking for more depth and/or structure.
 
 * fastai - http://fast.ai
 
@@ -171,46 +174,48 @@ Contents
 [Competitions](#contents)
 ---
 
-* [drivendata](https://drivendata.org)
+* [DrivenData](https://www.drivendata.org/): Data science competitions geared towards social causes, including health, education, and development.
 
-* [Kaggle](https://kaggle.com)
+* [Kaggle](https://kaggle.com): A popular data science competition platform.
 
 
 
 
 
 <br><br>
-[Data Sets](#contents)
+[Data & Datasets](#contents)
 ---
 
-* [UCI machine learning archive](https://archive.ics.uci.edu/ml/datasets.html)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html): More than 400 ML datasets.
 
-* [Kaggle](https://www.kaggle.com/datasets?sortBy=hottest&group=featured)
+* [Kaggle](https://www.kaggle.com/datasets): More than 8,000 datasets of varying quality covering numerous topics.
 
 * [Rdatasets](http://vincentarelbundock.github.io/Rdatasets/datasets.html): A collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. Curated by Vincent Arel-Bundock [![Github](http://i.imgur.com/9I6NRUm.png)](https://github.com/vincentarelbundock).
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A VERY large list of tidied, public data sets. Most of the datasets are free, some are not.
 
-* [IMDb Datasets](https://www.imdb.com/interfaces/): Movie data from IMDb.
+* [IMDb Datasets](https://www.imdb.com/interfaces/): Lots and lots of movie data from IMDb.
 
-* [Gun Violence Database](http://gun-violence.org/)
+* [Gun Violence Database](http://gun-violence.org/): A crowdsourced database of gun violence incidents in the US.
 
 * [UN Data](http://data.un.org/): Data from diverse UN sub-organizations.
 
-* [Gapminder](https://www.gapminder.org/data/): 
+* [Eurostat](http://ec.europa.eu/eurostat/data/database): EU data and statistics.
 
-* [Open Source Psychometrics Project](https://openpsychometrics.org/_rawdata/)
+* [Gapminder](https://www.gapminder.org/data/): An independent Swedish foundation dedicated to fighting misconceptions about global development, Gapminder offers datasets related to various development indicators.
 
-* [OpenStreetMap](https://www.openstreetmap.org)
+* [Open Source Psychometrics Project](https://openpsychometrics.org/_rawdata/): A website providing a collection of interactive personality tests with detailed results that can be taken for personal entertainment or to learn more about personality assessment. The tests range from very serious to not so much. Special focus is given to the strengths, weaknesses and validity of the various systems.
 
-* [The Standford Open Policing Project](https://openpolicing.stanford.edu/data/)
+* [OpenStreetMap](https://www.openstreetmap.org): Collaborative project to create a free editable map of the world. Geographic data can be downloaded as XML files.
 
-* [Our World in Data](https://ourworldindata.org/)
+* [The Standford Open Policing Project](https://openpolicing.stanford.edu/data/): Standardized data on interactions between police and public, e.g. vehicle and pedestrian stops, from law enforcement departments across the USA. 
 
-* [Open Food Facts](https://world.openfoodfacts.org/)
+* [Our World in Data](https://ourworldindata.org/): Online publication giving overview of global living conditions. Topics covered: health, food provision, the growth and distribution of incomes, violence, rights, wars, culture, energy use, education, and environmental changes. Charts generally include option to download data.
 
-* [Climate Data Online](https://www7.ncdc.noaa.gov/CDO/cdo)
+* [Open Food Facts](https://world.openfoodfacts.org/): Collaborative database of food products from around the world.
 
-* [Data Sets for Applied Regression Analysis and Generalized Linear Models](https://socialsciences.mcmaster.ca/jfox/Books/Applied-Regression-2E/datasets/)
+* [Climate Data Online](https://www7.ncdc.noaa.gov/CDO/cdo): Global climate data from the National Climatic Data Center, U.S. Department of Commerce.
 
-* [United States Census Bureau](https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html)
+* [Data Sets](https://socialsciences.mcmaster.ca/jfox/Books/Applied-Regression-2E/datasets/): From the book _Applied Regression Analysis and Generalized Linear Models_.
+
+* [United States Census Bureau](https://www.census.gov/programs-surveys/decennial-census/data/datasets.2010.html): Demographic data from the USA.
