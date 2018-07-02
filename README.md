@@ -11,7 +11,7 @@ Contents
 
 1. [Python](#python)
 2. [R](#r)
-3. [SQL](#sql)
+3. [Databases](#databases)
 4. [Machine Learning](#machine-learning)
 5. [Math and Statistics](#math-and-statistics)
 6. [Social Media and News](#social-media-and-news)
@@ -42,6 +42,7 @@ Contents
 
 * [SciPy Lecture Notes](http://www.scipy-lectures.org/): A brief (1-2 hours per module) introduction to the tools and techniques of Python's [SciPy](https://www.scipy.org/) module.
 
+* [CS109 Data Science](http://cs109.github.io/2015/): A very comprehensive, _very challenging_ course from Harvard's School of Engineering and Applied Sciences. Uses Python.
 
 
 <br><br>
@@ -65,18 +66,21 @@ Contents
 
 * [Sharp Sight Labs](https://www.sharpsightlabs.com/blog/): A useful blog with short tutorials on the nuts and bolts of data analysis in R, with a focus on tidyverse tools and on developing fluency.
 
+* [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3): Semester-long course from MIT & edX. Covers stats/DS using real-world examples.
+
+* [Quick-R](https://www.statmethods.net/): A website dedicated to helping individuals with some background in statistics transition to R.
 
 
 
 
 
 <br><br>
-[SQL](#contents)
+[Databases](#contents)
 ---
 
-* OTS Tutorial http://opentechschool.github.io/sql-tutorial/
+* [OTS SQL Tutorial](http://opentechschool.github.io/sql-tutorial/): Our own language-agnostic (i.e. no R or Python) guide to SQL. Perfect for beginners.
 
-* 
+* [Database minicourses from Stanford](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about): A thorough introduction to databases, mostly SQL, and database design.
 
 
 <br><br>
@@ -105,15 +109,22 @@ Contents
 
 ### Toolkits
 
-* [Scikit-Learn](http://scikit-learn.org/stable/) (Py): Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license.
+* [Scikit-Learn](http://scikit-learn.org/stable/) _(Py)_: Simple and efficient tools for data mining and data analysis. Accessible to everybody, and reusable in various contexts. Built on NumPy, SciPy, and matplotlib. Open source, commercially usable - BSD license.
 
-* stats package (many simple ML algorithms), pre-installed (R) Examples: http://www.statmethods.net/stats/regression.html
+* [Keras](https://keras.io/) _(Py)_: A Python deep learning library. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.
 
-* [Keras](https://keras.io/) (Py): A Python deep learning library. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation.
+* [TensorFlow](https://www.tensorflow.org/) _(Py)_: An open source machine learning framework.
 
-* [TensorFlow](https://www.tensorflow.org/) (Py): An open source machine learning framework.
+* [PyTorch](https://pytorch.org/) _(Py)_: A deep learning framework for fast, flexible experimentation.
 
-* [PyTorch](https://pytorch.org/) (Py):  A deep learning framework for fast, flexible experimentation.
+* [Natural Language Toolkit](https://www.nltk.org/) _(Py)_: NLTK is a leading platform for building Python programs to work with human language data.
+
+
+* [caret](http://topepo.github.io/caret/index.html) _(R)_: The caret package (short for _C_lassification _A_nd _RE_gression _T_raining) is a set of functions that attempt to streamline the process for creating predictive models.
+
+* [class](https://www.rdocumentation.org/packages/class/versions/7.3-14) _(R)_: Various functions for classification, including k-nearest neighbour, Learning Vector Quantization and Self-Organizing Maps.
+
+* [stats](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/00Index.html): Offers a number of functions for supervised and unsupervised learning.
 
 
 
@@ -122,10 +133,11 @@ Contents
 [Math and Statistics](#contents)
 ---
 
-* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) from Duke University + Coursera: The specialization costs money, but the material for the individual courses is accessible for free.
+* [Statistics with R Specialization](https://www.coursera.org/specializations/statistics): A popular, semester-long statistics course from from Duke University & Coursera. Focus is on stats with programming assignments in R. That said, it is possible to make it through the course without knowing much about R. Topics: inference, correlation, regression, Bayesian statistics. 
 
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md): From the good people at [fast.ai](http://fast.ai).
 
+* [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/laff-linear-algebra-foundations-to-frontiers): A popular, semester-long course from the University of Texas at Austin and edX. Challenging, but doesn't assume too much math experience. Programming exercises require Matlab, but it's possible to finish the course with R, Python, etc.
 
 
 
@@ -135,37 +147,41 @@ Contents
 
 ### People
 
-* [Dr. Rachael Tatman](https://twitter.com/rctatman) (): Live coding data science on twitch and other interactive projects.
+* [Dr. Rachael Tatman](https://twitter.com/rctatman) _(R/Py)_: Data Scientist @kaggle & Linguistics PhD. Data science, stats, R, Python, NLP and linguistics. Live coding data science on twitch and other interactive projects.
 
-* [](https://twitter.com/dataandme) (R):
+* [Mara Averick](https://twitter.com/dataandme) _(R)_: tidyverse dev advocate @rstudio #rstats, #datanerd, #civictech 💖er, 🏀 stats junkie, using #data4good (&or 🥇 fantasy sports), lesser ½ of @batpigandme 🦇🐽
 
-* [Julia Silge](https://twitter.com/juliasilge) (R):
+* [Julia Silge](https://twitter.com/juliasilge) _(R)_: Data science and visualization at @StackOverflow, #rstats, author of Text Mining with R, parenthood.
 
-* [Hadley Wickham](https://twitter.com/hadleywickham) (R): 
+* [Maëlle Salmon](https://twitter.com/ma_salmon) _(R)_: PhD in statistics. 💙#rstats. Living the FOSS dream working for @rOpenSci & @LockeData. Onboarding co-editor at @rOpenSci. #rladies. Member of @rweekly_org team.
 
-* [David Robinson]() (R): 
+* [Hadley Wickham](https://twitter.com/hadleywickham) _(R)_: R, data, visualisation. Creator of, and contributor to, numerous R libraries.
 
-* [](https://twitter.com/jakevdp)
+* [David Robinson](https://twitter.com/drob) _(R)_: Chief Data Scientist at @DataCamp, #rstats fan/evangelist.
 
-* [Wes McKinney](https://twitter.com/wesmckinn) (Py):
+* [Jake VanderPlas](https://twitter.com/jakevdp) _(Py)_: Data scientist in academia & exploring what that means with a great team at @UWeScience. Visiting researcher at @Google; dad to two girls; author of @pydatasci.
 
-* [Hugo-Bowne](https://twitter.com/hugobowne) (Py):
+* [Wes McKinney](https://twitter.com/wesmckinn) _(Py)_: Data science toolmaker at https://ursalabs.org/ . Creator of pandas, @IbisData. @ApacheArrow @ApacheParquet PMC. Wrote Python for Data Analysis.
+
+* [Allen Downey](https://twitter.com/AllenDowney) _(Py)_: Professor at Olin College, author of Think Python, blauthor of Probably Overthinking It, and stark raving Bayesian.
+
+* [Hugo-Bowne](https://twitter.com/hugobowne) _(Py)_: Data scientist, writer, mathematician, educator. Does all of these @DataCamp.
+
+* [Julia Evans](https://twitter.com/b0rk): Julia writes about lots of stuff. Check out her [blog](https://jvns.ca/).
 
 ### DS Websites, News, Etc.
 
-* [Analytics Vidhya](https://www.analyticsvidhya.com): A comprehensive data science website providing resources for pretty much everything related to data science/analysis. Their blurb: _Learn everything about analytics._
+* [Analytics Vidhya](https://www.analyticsvidhya.com): A comprehensive data science website providing resources for pretty much everything related to data science/analysis. Their ambitious blurb: _Learn everything about analytics._
 
-* [KDnuggets](https://www.kdnuggets.com/) (ML): 
+* [KDnuggets](https://www.kdnuggets.com/): A website covering everything DS and ML related.
 
 * [Data Machina](https://www.getrevue.co/profile/datamachina?utm_campaign=Issue&utm_content=topprofilename&utm_medium=email&utm_source=Data+Machina): A weekly digest of data science curiosities, machine intelligence, data geekery, and other amenities.
 
-* [Revolution Analytics](http://blog.revolutionanalytics.com/) (R): Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
+* [Revolution Analytics](http://blog.revolutionanalytics.com/) _(R)_: Daily news about using open source R for big data analysis, predictive modeling, data science, and visualization since 2008.
 
-* data science development - https://twitter.com/BecomingDataSci
+* [Becoming a Data Scientist](http://www.becomingadatascientist.com/): A website covering DS-related topics beyond just methods. Also offers useful information on career development.
 
-* Berlin based job offers, tutorials and more - https://twitter.com/DataScienceBER
-
-* linux / bash comics - https://twitter.com/b0rk
+* [Data Science Berlin](https://twitter.com/DataScienceBER): A collection of information related to DS in Berlin and Germany.
 
 
 
